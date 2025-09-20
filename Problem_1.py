@@ -153,12 +153,4 @@ def run_divide():
             print(f"Failed")
             return
 
-# dividend, divisor = 1000, 5
-# dividend, divisor = 28, 3
-# dividend, divisor = 28, -3
-# dividend, divisor = -28, 3
-# dividend, divisor = -28, -3
-# dividend, divisor = 7, -3
-# q = divide(dividend, divisor)
-# print(q)
 run_divide()
